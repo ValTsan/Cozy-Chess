@@ -1,11 +1,12 @@
 import { useState } from "react";
 
 import "./App.css";
+import ChessGame from "../ChessGame/ChessGame";
 
 function App() {
   return (
     <div>
-      <p>Hello World</p>
+      <ChessGame />
     </div>
   );
 }
