@@ -5,7 +5,7 @@
   justify-content: center;
   padding: 10px;
   /* background-color: #b7c0d7; */
-  /* background-color: #e8edf9; */
+  background-color: #e8edf9;
 }
 
 .chessgame__container {
@@ -14,7 +14,18 @@
   border: 2px solid #ccc;
   background-color: #b7c0d7;
 }
-
 .chessgame__status {
   font-weight: bold;
 }
+/* .custom-board .white-square {
+  background-color: #e8edf9 !important;
+}
+
+.custom-board .black-square {
+  background-color: #b7c0d7 !important;
+}
+
+.custom-board {
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+} */

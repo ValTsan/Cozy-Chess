@@ -1,0 +1,1 @@
+import "../Chessboard/Chessboard.css";
